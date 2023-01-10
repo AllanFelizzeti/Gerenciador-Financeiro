@@ -21,7 +21,15 @@
       "description": "Aluguel",
       "type": "outcome",
       "category": "Moradia",
-      "price": 1550,
+      "price": 5550,
+      "createdAt": "2022-07-29T19:45:44.505Z"
+    },
+    {
+      "id": 4,
+      "description": "Condomínio",
+      "type": "outcome",
+      "category": "Moradia",
+      "price": 2000,
       "createdAt": "2022-07-29T19:45:44.505Z"
     }
   ]
